@@ -50,7 +50,7 @@
 
              <!-- start: Content -->
             <div id="content" class="span10">
-              
+              <cfinclude template="content_riesgos.cfm">
             </div><!--/.fluid-container-->
     
             <!-- end: Content -->
