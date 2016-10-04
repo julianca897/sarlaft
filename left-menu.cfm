@@ -13,8 +13,8 @@
                 <a href="#"><h4>Información de riesgos</h4></a>
                
             </li>   
-            <li><a href="riesgos.cfm"><i class="icon-warning-sign"></i><span class="hidden-tablet"> Riesgos </span></a></li>
-            <li><a href="tasks.html"><i class="icon-eye-open"></i><span class="hidden-tablet"> Controles</span></a></li>
+            <li><a href="/sarlaft/riesgos/riesgos.cfm"><i class="icon-warning-sign"></i><span class="hidden-tablet"> Riesgos </span></a></li>
+            <li><a href="/sarlaft/controles/controles.cfm"><i class="icon-eye-open"></i><span class="hidden-tablet"> Controles</span></a></li>
             <li><a href="ui.html"><i class="icon-wrench"></i><span class="hidden-tablet"> Tratamientos</span></a></li>
             <li><a href="ui.html"><i class="icon-tasks"></i><span class="hidden-tablet"> Eventos</span></a></li>
             <li><a href="widgets.html"><i class="icon-calendar"></i><span class="hidden-tablet"> Planes de acción</span></a></li>

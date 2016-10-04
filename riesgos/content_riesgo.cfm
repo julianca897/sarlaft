@@ -3,7 +3,7 @@
 
     <div class="box span12">
         <div class="box-header" data-original-title>
-            <h2><button class="btn btn-small btn-info">Crear riesgo</button><span class="break"></span></h2>
+            <h2><a class="btn btn-small btn-info" href="crear_riesgo.cfm">Crear riesgo</a><span class="break"></span></h2>
 
             <div class="box-icon">
                 <!---<a href="#" class="btn-setting"><i class="halflings-icon wrench"></i></a>--->
@@ -36,7 +36,7 @@
                         <!---<a class="btn btn-success" href="#">
                             <i class="halflings-icon white zoom-in"></i>  
                         </a>--->
-                        <a class="btn btn-info" href="#">
+                        <a class="btn btn-info" href="/sarlaft/riesgos/m_riesgo.cfm">
                             <i class="halflings-icon white edit"></i>  
                         </a>
                         <a class="btn btn-danger" href="#">
@@ -55,7 +55,7 @@
                     </td>
                     <td class="center">
                         
-                        <a class="btn btn-info" href="#">
+                        <a class="btn btn-info" href="/sarlaft/riesgos/m_riesgo.cfm">
                             <i class="halflings-icon white edit"></i>                                            
                         </a>
                         <a class="btn btn-danger" href="#">
@@ -74,7 +74,7 @@
                     </td>
                     <td class="center">
                         
-                        <a class="btn btn-info" href="#">
+                        <a class="btn btn-info" href="/sarlaft/riesgos/m_riesgo.cfm">
                             <i class="halflings-icon white edit"></i>                                            
                         </a>
                         <a class="btn btn-danger" href="#">
@@ -93,7 +93,7 @@
                     </td>
                     <td class="center">
                         
-                        <a class="btn btn-info" href="#">
+                        <a class="btn btn-info" href="/sarlaft/riesgos/m_riesgo.cfm">
                             <i class="halflings-icon white edit"></i>                                            
                         </a>
                         <a class="btn btn-danger" href="#">

@@ -28,6 +28,7 @@
 @import url("glyphicons.css");											/* Glyphicons Font */
 @import url("halflings.css");											/* Glyphicons Halflings Font */
 @import url("style-forms.css");											/* Forms */
+@import url("Sarlaft.css");											/* mis estilos */
 
 /* Main Colors
 =================================================================== */
@@ -2973,3 +2974,6 @@ ul.messagesList li span.date {
 	}
     
 }
+
+.sc-matriz{height: 320px;}
+.sc-matriz tr,.sc-matriz td{border: 1px solid #FFF;}
